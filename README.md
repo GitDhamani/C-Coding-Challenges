@@ -13,4 +13,4 @@ Here is a quick summary of some of the more interesting snippets:
 
 <b>Lambdas</b>: One of my favourite parts of the Standard Library for C++17/20. I find using them very convenient and so I've showcased a few uses cases on how they can be used, especially with the STL Algorithms to efficiently sort and find data within containers.
 
-STL Containers/Algorithms: Lots of use cases on the STL Containers and how to use them with the built in Algorithms. 
+<b>STL Containers/Algorithms</b>: Lots of use cases on the STL Containers and how to use them with the built in Algorithms. 
